@@ -1,0 +1,7 @@
+Model,Accuracy,Precision,Recall,F-1
+Logistic Regression,94.17,95.83,90.2,92.93
+KNN,99.17,100.0,98.04,99.01
+SVM,96.67,96.08,96.08,96.08
+Random Forests,97.5,98.0,96.08,97.03
+Decision Trees,97.5,100.0,94.12,96.97
+ANN,93.33,92.16,92.16,92.16
